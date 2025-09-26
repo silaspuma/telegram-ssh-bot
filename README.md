@@ -1,6 +1,6 @@
 # telegram-ssh-bot
 
-this is a little script to run a telegram bot but it can execute linux cmds.
+this is a little script to run a telegram bot but you can execute linux commands with the bot without having access to your server. this could technically be used to ssh into something without needed a client
 
 # Run and install   
 
