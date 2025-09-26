@@ -1,22 +1,15 @@
-# Telegram SHH Bot
+# telegram-ssh-bot
 
-The idea of this project is to create a Telegram 
-bot capable of executing Linux shell commands 
-directly from the bot itself.
+this is a little script to run a telegram bot but it can execute linux cmds.
 
 # Run and install   
 
-* Set bot token in `telegram_ssh_bot/settings.py`
-* Create virtual environment
-* Activate virtual environment
-* Install all requirements 
-* Run `python3 telegram_ssh_bot`
+* set ur bot token in `tbot/settings.py`
+* create virtual environment
+* activate virtual environment
+* install all requirements in `requirements.txt`
+* run `python3 tbot`
 
 # Example
 
-![Alt Text](assets/example.png)
-
-# Plans 
-
-* Improve bot functionality 
-* Make pip package from this 
+![example](images/example.png)
